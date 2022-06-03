@@ -1,0 +1,9 @@
+.crmgrid th{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.crmgrid td{
+    padding:  10px;
+}
+
